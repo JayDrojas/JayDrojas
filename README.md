@@ -1,5 +1,7 @@
+<p align="center">
 <img src='https://raw.githubusercontent.com/JayDrojas/JayDrojas/main/PokemonBattle.webp' alt='' width='60%'>
-
+</p
+  
 ### Hi there 👋, my name is Damian
 #### I am a Full Stack Software Developer
 
