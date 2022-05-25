@@ -1,14 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Damian
+#### I am a Full Stack Software Developer
+![I am a Full Stack Software Developer](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
-**JayDrojas/JayDrojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Damian, I am from Albuquerque, New mexico. I really enjoy learning programming languages and frameworks like React and Angular. Some technologies that I have used are React, JavaScript, Python, Express, Flask, PostgreSQL, Node.js, Docker.
 
-Here are some ideas to get you started:
+Skills: | JavaScript | React | Node.js | Redux | Python | Flask | PostgreSQL | Sequelize | AWS3 | Docker | SQLAlchemy | Express | CSS | HTML
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...Soft Skills
-- 📫 How to reach me: damianxrojas@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play video games. 
+- 🔭 I’m currently working on this page. 
+
+
+
+
