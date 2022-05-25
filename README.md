@@ -11,9 +11,7 @@ Skills: | JavaScript | React | Node.js | Redux | Python | Flask | PostgreSQL | S
 
 ### Links
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/damian-rojas-076a571b8/)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JayDrojas)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/damian-rojas-076a571b8/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JayDrojas)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayDrojas)](https://github.com/anuraghazra/github-readme-stats)
 
