@@ -6,6 +6,8 @@
 #### I am a Full Stack Software Developer
 
 My name is Damian, I am from Albuquerque, New mexico. I really enjoy learning programming languages and frameworks like React and Angular. Some technologies that I have used are React, JavaScript, Python, Express, Flask, PostgreSQL, Node.js, Docker.
+  
+<h4>Check out my <a href="https://jaydrojas.github.io./">Portfolio</a></h4>
 
 Skills: | JavaScript | React | Node.js | Redux | Python | Flask | PostgreSQL | Sequelize | AWS3 | Docker | SQLAlchemy | Express | CSS | HTML
 
