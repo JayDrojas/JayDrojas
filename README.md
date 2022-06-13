@@ -1,8 +1,12 @@
 <p align="center">
 <img src='https://raw.githubusercontent.com/JayDrojas/JayDrojas/main/PokemonBattle.webp' alt='' width='60%'>
-</p
+</p>
 
-My name is Damian, I am from Albuquerque, New mexico. 
+<h2 align="center">
+Welcome ! 🧑‍💻🧑‍💻🧑‍💻, My name is Damian !
+</h2>
+
+I am from Albuquerque, New mexico. 
   
 I am an aspiring and passionate software developer. I love to code, the excitement I get when I have a lead when debugging is exhilarating. The rush of happiness I get when I find the solution is even better. I am also a curious person who enjoys solving problems and creating more intuitive solutions. I am a committed teammate and a patient and great communicator. A few of my favorite programming languages are JavaScript and Python. 
 
