@@ -1,11 +1,15 @@
 <p align="center">
 <img src='https://raw.githubusercontent.com/JayDrojas/JayDrojas/main/PokemonBattle.webp' alt='' width='60%'>
 </p
-  
-### Hi there 👋, my name is Damian
-#### I am a Full Stack Software Developer
 
-My name is Damian, I am from Albuquerque, New mexico. I really enjoy learning programming languages and frameworks like React and Angular. Some technologies that I have used are React, JavaScript, Python, Express, Flask, PostgreSQL, Node.js, Docker.
+My name is Damian, I am from Albuquerque, New mexico. 
+  
+I am an aspiring and passionate software developer. I love to code, the excitement I get when I have a lead when debugging is exhilarating. The rush of happiness I get when I find the solution is even better. I am also a curious person who enjoys solving problems and creating more intuitive solutions. I am a committed teammate and a patient and great communicator. A few of my favorite programming languages are JavaScript and Python. 
+
+I am fluent in Spanish and English. I also enjoy learning programming languages and frameworks like React and Angular. Some technologies that I have used are React, JavaScript, Python, Express, Flask, PostgreSQL, Node.js, Docker.  
+  
+My hobbies are soccer, football, video gaming, and tech. 
+I enjoy learning new things and I am eager to explore many more technologies that can help benefit me as a software engineer. I hope to one day work on artificial intelligence.
   
 <h4>Check out my <a href="https://jaydrojas.github.io./">Portfolio</a></h4>
 
