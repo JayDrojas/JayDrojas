@@ -14,12 +14,10 @@ I am fluent in Spanish and English. I also enjoy learning programming languages 
   
 My hobbies are soccer, football, video gaming, and tech. 
 I enjoy learning new things and I am eager to explore many more technologies that can help benefit me as a software engineer. I hope to one day work on artificial intelligence.
-  
-<h4>Check out my <a href="https://jaydrojas.github.io./">Portfolio</a></h4>
 
 Skills: | JavaScript | React | Node.js | Redux | Python | Flask | PostgreSQL | Sequelize | AWS3 | Docker | SQLAlchemy | Express | CSS | HTML
 
-- 🔭 I’m currently working on this page. 
+- <h4> 🔭 I am currently working on a <a href="https://arely-photography.herokuapp.com/">photography website for a client.</a></h4>
 
 ### Links
 
