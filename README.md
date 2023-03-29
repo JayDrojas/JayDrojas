@@ -17,7 +17,8 @@ I enjoy learning new things and I am eager to explore many more technologies tha
 
 Skills: | JavaScript | React | Node.js | Redux | Python | Flask | PostgreSQL | Sequelize | AWS3 | Docker | SQLAlchemy | Express | CSS | HTML
 
-- <h4> 🔭 I am currently an intern at Vincit USA</h4>
+- <h4> 🔭 I am currently working on a photography website for a client. </h4> 
+[Current Website](https://arelygizelphotography.vercel.app)
 
 ### Links
 
