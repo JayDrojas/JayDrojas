@@ -20,9 +20,6 @@ Databases: PostgreSQL, SQL Server, Sequelize, SQLAlchemy
 Cloud / DevOps: AWS, Google Cloud, Azure, Docker, CI/CD
 Other: GraphQL, Apollo, React Hook Forms, Zod
 
-- <h4> 🔭 I am currently working on a photography website for a client. </h4> 
-[Current Website](https://arelygizelphotography.vercel.app)
-
 ### Links
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/damian-rojas-076a571b8/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JayDrojas)  
